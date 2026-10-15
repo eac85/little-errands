@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/little-errands", "destination": "/index.html" }
+  ]
+}
